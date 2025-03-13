@@ -1,0 +1,25 @@
+INFO:root:Data frame created successfully
+INFO:py4j.clientserver:Closing down clientserver connection
+2025-03-11 01:08:01,912 ,INFO,Data frame created successfully
+2025-03-11 01:08:01,913 ,INFO,Closing down clientserver connection
+2025-03-11 11:48:43,135 ,INFO,Data frame created successfully
+2025-03-11 11:48:43,164 ,INFO,Closing down clientserver connection
+2025-03-12 12:12:53,721 ,INFO,Data frame created successfully
+2025-03-12 12:13:00,078 ,INFO,Closing down clientserver connection
+2025-03-12 12:18:21,981 ,INFO,Data frame created successfully
+2025-03-12 12:18:22,152 ,INFO,Closing down clientserver connection
+2025-03-12 12:20:12,235 ,INFO,Data frame created successfully
+2025-03-12 12:20:22,751 ,INFO,Closing down clientserver connection
+2025-03-12 12:34:19,253 ,ERROR,Data frame created successfully
+2025-03-12 12:34:38,962 ,INFO,Closing down clientserver connection
+2025-03-12 12:37:30,088 ,INFO,Data frame created successfully
+2025-03-12 12:37:39,034 ,INFO,Closing down clientserver connection
+2025-03-12 12:42:39,625 ,INFO,Data frame created successfully
+2025-03-12 12:42:47,143 ,INFO,Analytics 1  executed and result generated
+2025-03-12 12:42:47,144 ,INFO,Closing down clientserver connection
+2025-03-12 12:48:50,866 ,INFO,Data frame created successfully
+2025-03-12 12:49:06,682 ,INFO,Analytics1 executed and result generated
+2025-03-12 12:49:06,806 ,INFO,Closing down clientserver connection
+2025-03-12 13:03:54,175 ,INFO,Data frame created successfully
+2025-03-12 13:05:49,529 ,INFO,Analytics1 executed and result generated
+2025-03-12 13:05:52,814 ,INFO,Closing down clientserver connection
