@@ -23,3 +23,22 @@ INFO:py4j.clientserver:Closing down clientserver connection
 2025-03-12 13:03:54,175 ,INFO,Data frame created successfully
 2025-03-12 13:05:49,529 ,INFO,Analytics1 executed and result generated
 2025-03-12 13:05:52,814 ,INFO,Closing down clientserver connection
+2025-03-13 13:25:14,805 ,INFO,Data frame created successfully
+2025-03-13 13:25:23,923 ,INFO,Analytics1 executed and result generated
+2025-03-13 13:25:23,955 ,INFO,Closing down clientserver connection
+2025-03-13 13:27:27,400 ,INFO,Data frame created successfully
+2025-03-13 13:27:36,482 ,INFO,Analytics1 executed and result generated
+2025-03-13 13:27:36,583 ,ERROR,There is some error:Cannot convert column into bool: please use '&' for 'and', '|' for 'or', '~' for 'not' when building DataFrame boolean expressions.
+2025-03-13 13:27:36,584 ,INFO,Closing down clientserver connection
+2025-03-13 13:31:07,401 ,INFO,Data frame created successfully
+2025-03-13 13:31:16,220 ,INFO,Analytics1 executed and result generated
+2025-03-13 13:31:16,280 ,ERROR,There is some error:Cannot convert column into bool: please use '&' for 'and', '|' for 'or', '~' for 'not' when building DataFrame boolean expressions.
+2025-03-13 13:31:16,280 ,INFO,Closing down clientserver connection
+2025-03-13 13:34:17,439 ,INFO,Data frame created successfully
+2025-03-13 13:34:29,938 ,INFO,Analytics1 executed and result generated
+2025-03-13 13:34:30,021 ,ERROR,There is some error:Cannot convert column into bool: please use '&' for 'and', '|' for 'or', '~' for 'not' when building DataFrame boolean expressions.
+2025-03-13 13:34:30,022 ,INFO,Closing down clientserver connection
+2025-03-13 13:38:41,604 ,INFO,Data frame created successfully
+2025-03-13 13:38:49,682 ,INFO,Analytics1 executed and result generated
+2025-03-13 13:38:54,096 ,INFO,Analytics2 executed and result generated
+2025-03-13 13:38:54,097 ,INFO,Closing down clientserver connection
